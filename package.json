@@ -1,0 +1,19 @@
+{
+  "name": "mongodbskillapp",
+  "version": "1.0.0",
+  "description": "this is a pratical training app about mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibra188/MongodbSkillApp.git"
+  },
+  "author": "ebrima sonko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibra188/MongodbSkillApp/issues"
+  },
+  "homepage": "https://github.com/ibra188/MongodbSkillApp#readme"
+}
